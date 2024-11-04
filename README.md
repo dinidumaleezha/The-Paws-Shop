@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>README - The Paws Shop</title>
 </head>
 <body>
 
@@ -28,7 +29,6 @@
   <li>Search products based on categories such as toys, harnesses, cages, grooming products, collars, etc.</li>
   <li>Manager can create user accounts for cashiers.</li>
 </ul>
-
 <h2 id="usage">Usage</h2>
 <p>After setting up the project, you can access the following functionalities based on user roles:</p>
 <ul>
@@ -40,10 +40,10 @@
 <p>The Manager dashboard provides an interface for managing pet supplies and creating cashier accounts. Below are some screenshots of the Manager dashboard:</p>
 
 <h3>Dashboard Screenshot 1</h3>
-<img src="images/manager_dashboard_1.png" alt="Manager Dashboard 1" width="600">
+<img src="The-Paws-Shop/images/manager_dashboard_1.png" alt="Manager Dashboard 1" width="600">
 
 <h3>Dashboard Screenshot 2</h3>
-<img src="images/manager_dashboard_2.png" alt="Manager Dashboard 2" width="600">
+<img src="The-Paws-Shop/images/manager_dashboard_2.png" alt="Manager Dashboard 2" width="600">
 
 <h2 id="user-roles">User Roles</h2>
 <ul>
