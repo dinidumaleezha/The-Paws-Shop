@@ -41,7 +41,8 @@
 <h2 id="manager-dashboard">Manager Dashboard</h2>
 <p>The Manager dashboard provides an interface for managing pet supplies and creating cashier accounts. Below are some screenshots of the Manager dashboard:</p>
 
-<img src="images/manager_dashboard_1.png" alt="Screenshot of the manager dashboard displaying inventory options">
+<img src="images/manager_dashboard_1.png.png" alt="Screenshot of the manager dashboard displaying inventory options">
+
 
 <h2 id="user-roles">User Roles</h2>
 <ul>
