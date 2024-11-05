@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="The Paws Shop - Manage pet supply transactions with ease using our comprehensive dashboard for managers and cashiers.">
-  <title>The Paws Shop - Pet Supply Management System</title>
   <link rel="stylesheet" href="styles.css"> <!-- Link to an external stylesheet if available -->
 </head>
 <body>
