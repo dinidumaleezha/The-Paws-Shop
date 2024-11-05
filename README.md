@@ -3,7 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The Paws Shop - Manage pet supply transactions with ease using our comprehensive dashboard for managers and cashiers.">
   <title>The Paws Shop - Pet Supply Management System</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Link to an external stylesheet if available -->
 </head>
 <body>
 
@@ -39,7 +41,7 @@
 <h2 id="manager-dashboard">Manager Dashboard</h2>
 <p>The Manager dashboard provides an interface for managing pet supplies and creating cashier accounts. Below are some screenshots of the Manager dashboard:</p>
 
-<img src="/images/manager_dashboard_1.png" alt="Manager Dashboard Screenshot 1">
+<img src="/images/manager_dashboard_1.png" alt="Screenshot of the manager dashboard displaying inventory options">
 
 <h2 id="user-roles">User Roles</h2>
 <ul>
@@ -55,3 +57,4 @@
 
 </body>
 </html>
+
