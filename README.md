@@ -39,7 +39,7 @@
 <h2 id="manager-dashboard">Manager Dashboard</h2>
 <p>The Manager dashboard provides an interface for managing pet supplies and creating cashier accounts. Below are some screenshots of the Manager dashboard:</p>
 
-<img src="https://github.com/dinidumaleezha/The-Paws-Shop/blob/main/src/images/manager_dashboard_1.png" alt="Manager Dashboard Screenshot 1">
+<img src="/images/manager_dashboard_1.png" alt="Manager Dashboard Screenshot 1">
 
 <h2 id="user-roles">User Roles</h2>
 <ul>
