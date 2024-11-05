@@ -40,10 +40,10 @@
 <h3>Dashboard Screenshot 1</
 ![Home](images/manager_dashboard_1.png)
 
-<img src="The-Paws-Shop/images/manager_dashboard_1.png" alt="Manager Dashboard 1" width="600">
+<img src="images/manager_dashboard_1.png" alt="Manager Dashboard 1" width="600">
 
 <h3>Dashboard Screenshot 2</h3>
-<img src="The-Paws-Shop/images/manager_dashboard_2.png" alt="Manager Dashboard 2" width="600">
+<img src="images/manager_dashboard_2.png" alt="Manager Dashboard 2" width="600">
 
 <h2 id="user-roles">User Roles</h2>
 <ul>
